@@ -1,0 +1,21 @@
+моды:
+
+B9PartSwitch (зависимость для переключения деталей)
+
+Bluedog_DB (Bluedog Design Bureau — детали ракеты и спутника)
+
+CommunityResourcePack (библиотека ресурсов)
+
+kRPC (сервер для автопилота)
+
+ProceduralFairings (обтекатели)
+
+ProceduralParts (процедурные баки/детали)
+
+Waterfall (красивые эффекты выхлопа двигателей)
+
+утилиты:
+
+KerbalEngineer (KER — инженерные расчеты)
+
+ModuleManager.4.2.3 (ядро для работы модов)
